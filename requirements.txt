@@ -1,0 +1,12 @@
+openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+langchain
+langchain-community
+fastapi
+uvicorn
+click
+langchain-text-splitters
+flask
